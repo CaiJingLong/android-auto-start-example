@@ -1,9 +1,9 @@
 # Android Alarm Service Demo
 
-[![GitHub stars](https://img.shields.io/github/stars/kikt-blog/android-alarm-service-demo?style=social)](https://github.com/kikt-blog/android-alarm-service-demo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/kikt-blog/android-alarm-service-demo?style=social)](https://github.com/kikt-blog/android-alarm-service-demo/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/kikt-blog/android-alarm-service-demo)](https://github.com/kikt-blog/android-alarm-service-demo/issues)
-[![GitHub license](https://img.shields.io/github/license/kikt-blog/android-alarm-service-demo)](https://github.com/kikt-blog/android-alarm-service-demo/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/CaiJingLong/android-auto-start-example?style=social)](https://github.com/CaiJingLong/android-auto-start-example/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CaiJingLong/android-auto-start-example?style=social)](https://github.com/CaiJingLong/android-auto-start-example/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/CaiJingLong/android-auto-start-example)](https://github.com/CaiJingLong/android-auto-start-example/issues)
+[![GitHub license](https://img.shields.io/github/license/CaiJingLong/android-auto-start-example)](https://github.com/CaiJingLong/android-auto-start-example/blob/main/LICENSE)
 
 *[中文文档](README_CN.md)*
 
